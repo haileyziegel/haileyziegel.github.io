@@ -10,6 +10,7 @@
         steve: {assetKey: 'steve', points: 30},
         grace: {assetKey: 'grace', points: 40},
         kennedi: {assetKey: 'kennedi', points: 50}
+        tacoCat: {assetKey: 'tacoCat', points: 100}
     };
     
     /**
@@ -37,9 +38,9 @@
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
         // example: 
-        createCollectable(type.steve, 700, 170, 6, 0.7);
-        createCollectable(type.kennedi, 700, 370, 6, 0.7);
-        createCollectable(type.db, 200, 480, 6, 0.7);
+        createCollectable(type.tacoCat, 700, 170, 6, 0.7);
+        createCollectable(type.tacoCat, 700, 370, 6, 0.7);
+        createCollectable(type.tacoCat, 200, 480, 6, 0.7);
         
         
         
