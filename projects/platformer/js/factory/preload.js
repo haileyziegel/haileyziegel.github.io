@@ -12,7 +12,7 @@
         game.load.image('steve', './asset/collectable/steve-head.png');
         game.load.image('grace', './asset/collectable/grace-head.png');
         game.load.image('kennedi', './asset/collectable/kennedi-head.png');
-        game.load.image('max', './asset/collectable/max-head.png');
+        game.load.image('tacoCat', './asset/collectable/tacoCat.png');
         game.load.atlas('halle', './asset/halle/phaser-json-array/halle.png', './asset/halle/phaser-json-array/halle.json');
     };
 })(window);
